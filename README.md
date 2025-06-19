@@ -1,15 +1,13 @@
 # Landing Page – Show’s Bar [TEMA]
 
-Este projeto é uma landing page desenvolvida para a atividade prática da disciplina de [NOME DA DISCIPLINA], com o objetivo de aplicar conhecimentos de HTML, CSS, JavaScript e Firebase.
+Este projeto é uma landing page desenvolvida para a atividade prática da disciplina de Programação Web, com o objetivo de aplicar conhecimentos de HTML, CSS, JavaScript e Firebase.
 
 ## 🎯 Tema Personalizado
 
-**Tema escolhido:** Show’s Bar [NOME DO TEMA]  
-**Critério usado:** [Primeira letra do nome: X → Tema: Y]
-
-> Exemplo:  
-> Primeira letra do nome: J  
-> Tema: Show's Bar Lux – foco em casamentos e festas de gala
+**Tema escolhido:** Show’s Bar Lounge
+**Critério usado:**
+> Primeira letra do nome: B
+> Tema: Show's Bar Lounge – foco em eventos corporativos
 
 ## 🔧 Funcionalidades
 
@@ -29,10 +27,10 @@ Este projeto é uma landing page desenvolvida para a atividade prática da disci
 
 ## 🌐 Link do Projeto
 
-**Repositório GitHub:** [https://github.com/SEU_USUARIO/landingpage-showsbar-TEMA](https://github.com/SEU_USUARIO/landingpage-showsbar-TEMA)  
-**Link Firebase (Realtime Database):** [https://console.firebase.google.com/project/SEU_PROJETO/database](https://console.firebase.google.com/project/SEU_PROJETO/database)
+**Repositório GitHub:** (https://github.com/202847/landingpage-showsbar-lounge.git)
+**Link Firebase (Realtime Database):** (https://console.firebase.google.com/project/showbar-27130/database)
 
 ## ✍️ Reflexão Pessoal
-
-- O que eu aprendi com essa atividade:
+ 
+Aprendi com essa atividade como estruturar um código para formar uma landingpage, utilizei as práticas utilizadas na sala de aula e com ajuda de Inteligencia Artificial para fazer o trabalho, mas não utilizei 100% da IA nesse quisito, apenas em boas práticas de como estruturar.
 
