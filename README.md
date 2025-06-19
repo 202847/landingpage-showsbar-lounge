@@ -1,4 +1,4 @@
-# Landing Page – Show’s Bar [TEMA]
+# Landing Page – Show’s Bar Lounge
 
 Este projeto é uma landing page desenvolvida para a atividade prática da disciplina de Programação Web, com o objetivo de aplicar conhecimentos de HTML, CSS, JavaScript e Firebase.
 
